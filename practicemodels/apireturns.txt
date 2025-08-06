@@ -1,0 +1,43 @@
+preds: [0, 1, 1, 1, 1]
+f1_score: 0.5714285714285714
+stats: 
+[lastmonth_activity      165.653846
+lastyear_activity      1502.923077
+number_of_employees      26.884615
+exited                    0.576923
+dtype: float64, lastmonth_activity      73.0
+lastyear_activity      955.0
+number_of_employees     14.0
+exited                   1.0
+dtype: float64, lastmonth_activity      284.033229
+lastyear_activity      2192.644958
+number_of_employees      31.353886
+exited                    0.503831
+dtype: float64]
+timing: [0.4716879581101239, 1.0219162919092923]
+missing: [0.0, 0.0, 0.0, 0.0, 0.0]
+dependicies: 
+               name installed version most recent version
+0             click             7.1.2               8.2.1
+1            cycler            0.10.0              0.12.1
+2             Flask             1.1.2               3.1.1
+3          gunicorn            20.0.4              20.1.0
+4      itsdangerous             1.1.0               2.2.0
+5            Jinja2            2.11.3               3.1.6
+6            joblib             1.0.1               1.5.1
+7        kiwisolver             1.3.1               1.4.8
+8        MarkupSafe             1.1.1               3.0.2
+9        matplotlib             3.3.4              3.10.3
+10            numpy            1.20.1              1.23.0
+11           pandas             1.2.2               1.3.5
+12           Pillow             8.1.0              11.3.0
+13        pyparsing             2.4.7               3.2.3
+14  python-dateutil             2.8.1         2.9.0.post0
+15             pytz            2021.1              2025.2
+16     scikit-learn            0.24.1               1.7.1
+17            scipy             1.6.1              1.11.4
+18          seaborn            0.11.1              0.13.2
+19              six            1.15.0              1.17.0
+20          sklearn               0.0                 0.0
+21    threadpoolctl             2.1.0               3.6.0
+22         Werkzeug             1.0.1               3.1.3

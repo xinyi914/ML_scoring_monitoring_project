@@ -1,0 +1,26 @@
+~                                                                                                           
+"/tmp/crontab.1buLRsB928" 0L, 0B
+*/10 * * * * python /Users/xinyi/Desktop/my_code_projects_practice/udacity_repo/course5_project/fullprocess.
+py
+
+~                                                                                                           
+~                                                                                                           
+~                                                                                                           
+~                                                                                                           
+~                                                                                                           
+~                                                                                                           
+~                                                                                                           
+~                                                                                                           
+~                                                                                                           
+~                                                                                                           
+~                                                                                                           
+~                                                                                                           
+~                                                                                                           
+~                                                                                                           
+~                                                                                                           
+~                                                                                                           
+~                                                                                                           
+~                                                                                                           
+~                                                                                                           
+~                                                                                                           
+~           
