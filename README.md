@@ -4,7 +4,7 @@ This is the project of course 5 in Udacity ML devops engineer nano degree progra
 
 The enviroment requirement is in "requirements.txt"
 If using api:
-run ``` python app.py``` first
+run ```python app.py``` first
 
 To run the whole process:
-``` python fullprocess.py```
+```python fullprocess.py```
